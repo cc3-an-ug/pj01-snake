@@ -7,12 +7,12 @@ proj_dir_path = Path(__file__).parent.parent
 
 starter_file_hashes = {
     "Makefile": "a8acfd1391a16d08115e322bc9d6bdcf",
-    "src/asserts.c": "de6b1c338a4155f4af5badf68f6885a3",
+    "src/asserts.c": "1cdd50dc213a0e83468296a35cb0a534",
     "src/asserts.h": "c0dd70b272b965272daf0d274126f9af",
     "src/snake_utils.c": "141228e5a6828da7b34b2a53797bab9d",
-    "src/snake_utils.h": "afd91a278c87e5df3f15dc2baffb3abf",
+    "src/snake_utils.h": "a35a74a8468df1c84d3f170ddbe78f5e",
     "src/state.h": "694e33309de6e0b26596074643b62170",
-    "src/unit_tests.c": "1c0e425cc80a2956206aee37328c7492",
+    "src/unit_tests.c": "942bf84ca417b06a70fe667b956f0e44",
     "tests/01-simple-in.snk": "9300d4767e059a3056a9bf4bd5455b20",
     "tests/01-simple-ref.snk": "7d1aa30890d6d7f38b4c8fe864680532",
     "tests/02-direction-in.snk": "6d3d008aae31e41adf17c715564a5c5f",
